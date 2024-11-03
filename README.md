@@ -21,5 +21,6 @@ To use this script, run it from the command line with the target IP address and 
 ```bash
 ./exploit.sh <IP_ADDRESS> <PORT>
 
+# add /youthappam to the  links in the bash script file - specifically built this for ctf
 
 REF : https://github.com/HKD01l/bug_report/blob/main/vendors/mayuri_k%20canteen-management-system/RCE-1.md
